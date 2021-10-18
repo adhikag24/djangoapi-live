@@ -25,7 +25,7 @@ SECRET_KEY = 'r^q-t(nnu5)%(fjto1a3h#m__^)mu^5@ydpc+-b#xs#t-ofwd='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://djangoapiadhika.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['djangoapiadhika.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
